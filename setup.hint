@@ -1,0 +1,7 @@
+category: Java
+requires: 
+sdesc: "JavaBeans Activation Framework"
+ldesc: "GNU JAF is a framework for declaring what beans operate on what 
+MIME type data. Content handler beans can be defined to handle 
+particular MIME content. The JAF unites internet standards for declaring 
+content with JavaBeans."

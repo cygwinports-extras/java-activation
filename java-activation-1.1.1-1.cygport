@@ -1,9 +1,8 @@
 inherit ant
 
-
+DESCRIPTION="JavaBeans Activation Framework"
 HOMEPAGE="http://www.gnu.org/software/classpathx/jaf/"
 SRC_URI="mirror://gnu/classpathx/${ORIG_PN}-${PV}.tar.gz"
-
 
 ANT_BUILD_TARGETS="dist javadoc"
 ANT_INSTALL_JARS="*.jar"
